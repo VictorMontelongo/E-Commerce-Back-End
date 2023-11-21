@@ -32,6 +32,9 @@
     
   ## Tests
     -Downloading the code and by using a server application such as Insomnia to add, modify, and delete products as needed.
+    [Untitled_ Nov 20, 2023 9_40 PM.webm](https://github.com/VictorMontelongo/E-Commerce-Back-End/assets/82343047/8851d465-f8cf-43e3-a855-98abaead2afc)
+    
+
   
 
   ## Questions
